@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bvanusb2
+- 👋 Hi, I’m @bvanusb2 (Brad Van Slyke, braddon.vanslyke@terumobct.com)
 - 👀 I’m interested in Terumo and signal processing and amateur radio
 - 🌱 I’m currently learning C++ 27 (yeah, I'm that far ahead)
 - 💞️ I’m looking to collaborate on whatever I can help with
